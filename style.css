@@ -1,0 +1,32 @@
+body{
+  background-color: aliceblue;
+}
+.title{
+  text-align: center;
+}
+h1.title{
+  font-style: bold;
+  font-size: 40px;
+  color: black;
+}
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: capitalize;
+  display: inline-block;
+  font-size: 18px;
+}
+img.content{
+  object-fit: cover;
+ } 
+ p.lead{
+  text-align: justify;
+ }
+ .banner{
+  background-color: transparent;
+ }
